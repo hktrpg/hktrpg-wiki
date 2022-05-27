@@ -2,7 +2,7 @@
 title: 首頁
 description: 任何人都可以增加修改的TRPG百科全書
 published: true
-date: 2022-05-27T22:06:40.073Z
+date: 2022-05-27T22:09:21.630Z
 tags: 首頁
 editor: markdown
 dateCreated: 2022-05-20T09:19:21.009Z
@@ -37,7 +37,7 @@ TRPG擁有大量千奇怪的系統，這裡介紹一部分
 
 # TRPG組織/網站
 - [香港TRPG研究社 *一個Facebook Page*](https://www.facebook.com/groups/HKTRPG/)
-- [TRPG組織 *介紹不同的組織*](/trpg/Groups)
+- [TRPG組織 *介紹不同的組織*](/TRPG/Groups)
 {.links-list}
 
 # 貢獻
