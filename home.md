@@ -2,7 +2,7 @@
 title: 首頁
 description: 任何人都可以增加修改的TRPG百科全書
 published: true
-date: 2022-05-28T08:45:23.652Z
+date: 2022-06-08T10:38:53.151Z
 tags: 首頁
 editor: markdown
 dateCreated: 2022-05-20T09:19:21.009Z
@@ -24,8 +24,8 @@ TRPG擁有大量千奇怪的系統，這裡介紹一部分
 
 # TRPG工具
 - [:gear: 跑團工具 *進階者可以使用不同的工具輔助TRPG*](/TRPG/Tools)
-- [:busts_in_silhouette: 在線擲骰 *簡易擲骰工具*](https://roll.hktrpg.com/)
-- [:satellite: 擲骰聊天室 *既可以擲骰，又可以與人聊天*](https://rollbot.hktrpg.com/)
+- [:busts_in_silhouette: 在線擲骰 *簡易擲骰工具*](https://roll.hktrpg.com/){:target="_blank"}
+- [:satellite: 擲骰聊天室 *既可以擲骰，又可以與人聊天*](https://rollbot.hktrpg.com/){:target="_blank"}
 {.links-list}
 
 # HKTRPG工具
