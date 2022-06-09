@@ -11,7 +11,7 @@ dateCreated: 2022-05-27T22:11:00.912Z
 |名稱|型式|主要對像|人數
 | -- | -- | -- | -- |
 [純美蘋果園 - 香港面團專區](http://www.goddessfantasy.net/bbs/index.php?board=1400.0)|論壇|香港|
-[香港TRPG研究社](https://www.facebook.com/groups/HKTRPG/)|Facebook|香港|1000人以上
+[香港TRPG研究社](https://www.facebook.com/groups/HKTRPG/)|Facebook|香港|1200人以上
 [訓教吧](https://discord.gg/vx4kcm7)|Discord群|香港|1000人以上
 [桌上角色扮演遊戲(TRPG)哈啦區](https://forum.gamer.com.tw/B.php?bsn=60429&subbsn=0)|論壇|正體中文使用者|
 [免費開源TRPG中文化團隊](https://hazmole.github.io/Free-Open-TRPG-Translation/)|網站|TRPG玩家|
