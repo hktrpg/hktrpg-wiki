@@ -2,7 +2,7 @@
 title: TRPG系統
 description: 介紹不同TRPG系統
 published: true
-date: 2022-05-28T09:14:06.977Z
+date: 2022-06-08T11:54:31.399Z
 tags: system
 editor: markdown
 dateCreated: 2022-05-28T08:52:59.272Z

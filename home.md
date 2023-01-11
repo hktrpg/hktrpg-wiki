@@ -1,11 +1,11 @@
 ---
-title: 首頁
-description: 任何人都可以增加修改的TRPG百科全書
+title: Untitled Page
+description: 
 published: true
-date: 2022-06-08T10:38:53.151Z
-tags: 首頁
+date: 2023-01-11T09:21:08.418Z
+tags: 
 editor: markdown
-dateCreated: 2022-05-20T09:19:21.009Z
+dateCreated: 2023-01-11T09:21:03.549Z
 ---
 
 > 這是新嘗試，以新界面宣傳TRPG!
@@ -13,6 +13,7 @@ dateCreated: 2022-05-20T09:19:21.009Z
 
 # TRPG初接觸
 - [:one: TRPG基礎說明 *了解基本*](/TRPG/basicDecsription)
+- [:car: 約玩TRPG *進入奇幻世界*](https://play.hktrpg.com)
 - [:movie_camera: 動畫 *以好看的Replay入門*](/TRPG/replay)
 - [:hong_kong: 香港TRPG歷史影片 *介紹香港1980-2019年TRPG歷史發展*](https://www.youtube.com/watch?v=mB1VbQelfcc&feature=youtu.be)
 {.links-list}
