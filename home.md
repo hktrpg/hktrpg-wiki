@@ -1,11 +1,11 @@
 ---
-title: Untitled Page
-description: 
+title: 首頁
+description: 任何人都可以增加修改的TRPG百科全書
 published: true
-date: 2023-01-11T09:21:08.418Z
-tags: 
+date: 2023-01-11T09:26:30.776Z
+tags: 首頁
 editor: markdown
-dateCreated: 2023-01-11T09:21:03.549Z
+dateCreated: 2022-05-20T09:19:21.009Z
 ---
 
 > 這是新嘗試，以新界面宣傳TRPG!
@@ -33,7 +33,6 @@ TRPG擁有大量千奇怪的系統，這裡介紹一部分
 - [:globe_with_meridians: HKTRPG官方使用教學](https://bothelp.hktrpg.com/)
 - [:floppy_disk: HKTRPG作品集 *HKTRPG開發出的不同工具*](https://hktrpg.github.io/TG.line.Discord.Roll.Bot/PORTFOLIOP)
 {.links-list}
-
 
 
 # TRPG組織/網站
