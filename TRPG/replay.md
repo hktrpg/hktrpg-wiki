@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T09:44:51.352Z
+date: 2023-01-12T09:51:26.145Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -23,25 +23,12 @@ dateCreated: 2022-05-27T22:05:38.237Z
 ### COC主題
 
 %%html
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jZ952vChhuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-<center>
- <iframe width="560" 
-         height="315" 
-         src="YOUTUBE_LINK" 
-         title="YouTube video player" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen>
- </iframe>
-</center>
-
 
 -   [住在秋千上的人](https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_OxxyO)
 
+![IMAGE ALT TEXT](https://img.youtube.com/vi/SmTG7KLyJKw/0.jpg)
 
-[![IMAGE ALT TEXT](https://img.youtube.com/vi/SmTG7KLyJKw/0.jpg)](https://www.youtube.com/watch?v=SmTG7KLyJKw "Video Title")
-
-2	
+2
 
 -   孤寂之溫泉鄉
 -   其實超級有趣的克蘇魯神話TRPG
