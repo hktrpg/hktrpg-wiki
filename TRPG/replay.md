@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T10:51:34.683Z
+date: 2023-01-12T10:52:02.482Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -39,6 +39,16 @@ https://www.youtube.com/watch?v=mB1VbQelfcc&feature=youtu.be
 ##### 影片
 
 https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_OxxyO
+
+### 兩個人的克蘇魯
+#### Tabs {.tabset}
+##### 介紹
+
+*1KP 1玩家的團，使用經典日本模組，適合新手了解規則*
+
+##### 影片
+
+https://www.youtube.com/watch?v=hPqTdz_TvjU
 
 ### 孤寂之溫泉鄉
 #### Tabs {.tabset}
@@ -91,17 +101,6 @@ https://www.youtube.com/playlist?list=PL384C95319883F138
 ##### 影片
 
 https://www.youtube.com/watch?v=nmFuLrm66a0&list=PL1yTcjR2Q-l3z5H-twYZXO4rNlD5LkxfJ
-
-
-### 兩個人的克蘇魯
-#### Tabs {.tabset}
-##### 介紹
-
-*1KP 1玩家的團，使用經典日本模組，適合新手了解規則*
-
-##### 影片
-
-https://www.youtube.com/watch?v=hPqTdz_TvjU
 
 
 ### 行走在黑暗中的人們的宴會
