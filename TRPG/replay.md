@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T10:38:46.326Z
+date: 2023-01-12T10:41:16.820Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -69,8 +69,11 @@ https://www.youtube.com/watch?v=pYt5VfC2uF0&list=PLIU-p0ofx7G52atreAAaidde-oOTcS
 
 https://www.youtube.com/watch?v=xub781s9Guw&list=PLJjvW63fcFDQUiPn8Wwl7Uqqq-CODRk4_
 
+
+### 饅饅來妖夢與真的很可怕的克蘇魯神話
+
 #### Tabs {.tabset}
-##### 饅饅來妖夢與真的很可怕的克蘇魯神話
+##### 介紹
 
 *文豪野村製作的腦內團Replay，還改編成漫畫*
 
@@ -78,8 +81,10 @@ https://www.youtube.com/watch?v=xub781s9Guw&list=PLJjvW63fcFDQUiPn8Wwl7Uqqq-CODR
 
 https://www.youtube.com/playlist?list=PL384C95319883F138
 
+## 真的發生過的SAN值下降克蘇魯TRPG
+
 #### Tabs {.tabset}
-##### 真的發生過的SAN值下降克蘇魯TRPG
+##### 介紹
 
 *是看的人SAN下降吧*
 
@@ -87,8 +92,10 @@ https://www.youtube.com/playlist?list=PL384C95319883F138
 
 https://www.youtube.com/watch?v=nmFuLrm66a0&list=PL1yTcjR2Q-l3z5H-twYZXO4rNlD5LkxfJ
 
+
+### 兩個人的克蘇魯
 #### Tabs {.tabset}
-##### 兩個人的克蘇魯
+##### 介紹
 
 *1KP 1玩家的團，使用經典日本模組，適合新手了解規則*
 
@@ -96,8 +103,11 @@ https://www.youtube.com/watch?v=nmFuLrm66a0&list=PL1yTcjR2Q-l3z5H-twYZXO4rNlD5Lk
 
 https://www.youtube.com/watch?v=hPqTdz_TvjU
 
+
+### 行走在黑暗中的人們的宴會
+
 #### Tabs {.tabset}
-##### 行走在黑暗中的人們的宴會
+##### 介紹
 
 *Booth 大熱作品*
 
@@ -105,8 +115,10 @@ https://www.youtube.com/watch?v=hPqTdz_TvjU
 
 https://www.bilibili.com/video/av552993/
 
+
+### 超人高中生+人妖的胡搞瞎搞克蘇魯
 #### Tabs {.tabset}
-##### 超人高中生+人妖的胡搞瞎搞克蘇魯
+##### 介紹
 
 *只有後面*
 
@@ -114,8 +126,10 @@ https://www.bilibili.com/video/av552993/
 
 https://www.youtube.com/watch?v=R6aufWB1sX8&list=PLZqqLuB_ZnEhytDmnJgRWGartHIdFU4Gg
 
+
+### 饅饅來 x Puyo 褻瀆的TRPG
 #### Tabs {.tabset}
-##### 饅饅來 x Puyo 褻瀆的TRPG
+##### 介紹
 
 *饅饅來 COC*
 
@@ -123,8 +137,10 @@ https://www.youtube.com/watch?v=R6aufWB1sX8&list=PLZqqLuB_ZnEhytDmnJgRWGartHIdFU
 
 https://www.youtube.com/watch?v=Ysf19E9a0CA&list=PLKolsJ1lvmfy4vsLMAbsFUyl8tM2dM5mw&index=1
 
+
+### 個性互毆的克蘇魯神話TRPG
 #### Tabs {.tabset}
-##### 個性互毆的克蘇魯神話TRPG
+##### 介紹
 
 *作者レラカム和高生紳士*
 
@@ -132,8 +148,9 @@ https://www.youtube.com/watch?v=Ysf19E9a0CA&list=PLKolsJ1lvmfy4vsLMAbsFUyl8tM2dM
 
 https://www.youtube.com/watch?v=kMpYzS_B6Jo
 
+### 嵯峨崎怪奇事件簿
 #### Tabs {.tabset}
-##### 嵯峨崎怪奇事件簿
+##### 介紹
 
 *坑了*
 
@@ -141,9 +158,9 @@ https://www.youtube.com/watch?v=kMpYzS_B6Jo
 
 https://www.bilibili.com/video/av4352905/#page=1
 
-
+### 小睡中的饅饅來 COC TRPG
 #### Tabs {.tabset}
-##### 小睡中的饅饅來 COC TRPG
+##### 介紹
 
 * 原作者 sayuki *
 
