@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T10:45:55.721Z
+date: 2023-01-12T10:49:27.746Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -178,3 +178,13 @@ https://www.bilibili.com/video/av510622/
 ##### 影片
 
 https://www.youtube.com/watch?v=4h1ruKqeEjE&feature=youtu.be
+
+# 文字團錄
+
+- [Annabelle's TRPG](https://sites.google.com/site/annuode/shou-ye-1)
+- [桌上遊戲的小小心情 - BG and TRPG](https://sites.google.com/site/bgtrpg/trpg)
+- [石田的TRPG資料庫](https://sites.google.com/site/kusofkj/)
+- [赤紅月夜－TRPG團錄放置處](	https://sites.google.com/site/chihongyueye/)
+- [ATOYORI TRPG Replay](	https://sites.google.com/site/atolilytuanlufangzhichu/)
+
+
