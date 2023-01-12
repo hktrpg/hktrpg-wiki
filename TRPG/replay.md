@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T10:41:16.820Z
+date: 2023-01-12T10:42:17.442Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -16,7 +16,7 @@ dateCreated: 2022-05-27T22:05:38.237Z
 
 動畫式團錄一般是把實際跑團紀錄轉化成動畫，目的可能是為了推廣，教學，宣傳。為了戲劇性觀賞性，內容通常經過大量修飾，並配以畫像及音樂，和實際跑團的情況有所出入。動畫式團錄亦有一種是腦內團，即是仿跑團型式，但內容其實是作者的劇本。
 
-### 香港TRPG歷史影片
+## 香港TRPG歷史影片
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=mB1VbQelfcc&feature=youtu.be
 
 ## **動畫式Replay**
 
-### COC主題
+## COC主題
 
-### 住在秋千上的人
+## 住在秋千上的人
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -40,7 +40,7 @@ https://www.youtube.com/watch?v=mB1VbQelfcc&feature=youtu.be
 
 https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_OxxyO
 
-### 孤寂之溫泉鄉
+## 孤寂之溫泉鄉
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_Ox
 
 https://www.youtube.com/watch?v=iSEbI81zhhY&list=PLdmZ53hi6piYsCb-bhWdPIstfaV6EFtGk&index=1
 
-### 其實超級有趣的克蘇魯神話TRPG
+## 其實超級有趣的克蘇魯神話TRPG
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -70,7 +70,7 @@ https://www.youtube.com/watch?v=pYt5VfC2uF0&list=PLIU-p0ofx7G52atreAAaidde-oOTcS
 https://www.youtube.com/watch?v=xub781s9Guw&list=PLJjvW63fcFDQUiPn8Wwl7Uqqq-CODRk4_
 
 
-### 饅饅來妖夢與真的很可怕的克蘇魯神話
+## 饅饅來妖夢與真的很可怕的克蘇魯神話
 
 #### Tabs {.tabset}
 ##### 介紹
@@ -93,7 +93,7 @@ https://www.youtube.com/playlist?list=PL384C95319883F138
 https://www.youtube.com/watch?v=nmFuLrm66a0&list=PL1yTcjR2Q-l3z5H-twYZXO4rNlD5LkxfJ
 
 
-### 兩個人的克蘇魯
+## 兩個人的克蘇魯
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -104,7 +104,7 @@ https://www.youtube.com/watch?v=nmFuLrm66a0&list=PL1yTcjR2Q-l3z5H-twYZXO4rNlD5Lk
 https://www.youtube.com/watch?v=hPqTdz_TvjU
 
 
-### 行走在黑暗中的人們的宴會
+## 行走在黑暗中的人們的宴會
 
 #### Tabs {.tabset}
 ##### 介紹
@@ -116,7 +116,7 @@ https://www.youtube.com/watch?v=hPqTdz_TvjU
 https://www.bilibili.com/video/av552993/
 
 
-### 超人高中生+人妖的胡搞瞎搞克蘇魯
+## 超人高中生+人妖的胡搞瞎搞克蘇魯
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -127,7 +127,7 @@ https://www.bilibili.com/video/av552993/
 https://www.youtube.com/watch?v=R6aufWB1sX8&list=PLZqqLuB_ZnEhytDmnJgRWGartHIdFU4Gg
 
 
-### 饅饅來 x Puyo 褻瀆的TRPG
+## 饅饅來 x Puyo 褻瀆的TRPG
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -138,7 +138,7 @@ https://www.youtube.com/watch?v=R6aufWB1sX8&list=PLZqqLuB_ZnEhytDmnJgRWGartHIdFU
 https://www.youtube.com/watch?v=Ysf19E9a0CA&list=PLKolsJ1lvmfy4vsLMAbsFUyl8tM2dM5mw&index=1
 
 
-### 個性互毆的克蘇魯神話TRPG
+## 個性互毆的克蘇魯神話TRPG
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -148,7 +148,7 @@ https://www.youtube.com/watch?v=Ysf19E9a0CA&list=PLKolsJ1lvmfy4vsLMAbsFUyl8tM2dM
 
 https://www.youtube.com/watch?v=kMpYzS_B6Jo
 
-### 嵯峨崎怪奇事件簿
+## 嵯峨崎怪奇事件簿
 #### Tabs {.tabset}
 ##### 介紹
 
@@ -158,7 +158,7 @@ https://www.youtube.com/watch?v=kMpYzS_B6Jo
 
 https://www.bilibili.com/video/av4352905/#page=1
 
-### 小睡中的饅饅來 COC TRPG
+## 小睡中的饅饅來 COC TRPG
 #### Tabs {.tabset}
 ##### 介紹
 
