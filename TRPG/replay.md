@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T09:34:03.462Z
+date: 2023-01-12T09:39:57.628Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -22,12 +22,17 @@ dateCreated: 2022-05-27T22:05:38.237Z
 
 ### COC主題
 
+%%html
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jZ952vChhuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 -   [住在秋千上的人](https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_OxxyO)
 
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/SmTG7KLyJKw/0.jpg)](http://www.youtube.com/watch?v=SmTG7KLyJKw "Video Title")
 
-
+2	
 
 -   孤寂之溫泉鄉
 -   其實超級有趣的克蘇魯神話TRPG
