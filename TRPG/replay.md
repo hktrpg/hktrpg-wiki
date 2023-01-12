@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T09:39:57.628Z
+date: 2023-01-12T09:41:36.930Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -24,7 +24,16 @@ dateCreated: 2022-05-27T22:05:38.237Z
 
 %%html
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jZ952vChhuI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<center>
+ <iframe width="560" 
+         height="315" 
+         src="YOUTUBE_LINK" 
+         title="YouTube video player" 
+         frameborder="0" 
+         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+         allowfullscreen>
+ </iframe>
+</center>
 
 
 -   [住在秋千上的人](https://www.youtube.com/watch?v=SmTG7KLyJKw&list=PL4onfAEwjPNDaOjnuOdzHmI7FeW_OxxyO)
