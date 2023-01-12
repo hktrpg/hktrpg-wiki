@@ -2,19 +2,11 @@
 title: TRPG系統
 description: 介紹不同TRPG系統
 published: true
-date: 2023-01-12T05:12:58.141Z
+date: 2023-01-12T05:13:27.026Z
 tags: system
 editor: markdown
 dateCreated: 2022-05-28T08:52:59.272Z
 ---
-
-| Tour            | Height (m)  | Discipline     | Date      | Mountain Range|
-|-----------------|-------------|----------------|-----------|---------------|
-| Monte Cevedale  | 3769        | Hochtour       | 2006/08   | Ortler Alpen  |
-| Piz Morteratsch | 3751        | Hochtour       | 2005/09   | Bernina       |
-| Ellmauer Halt   | 2344        | Klettersteig   | 2004/07   | Wilder Kaiser |
-
-<script>$( "table" ).last().addClass( "sortable" );</script>
 
 
 | 系統名稱 | 風格  | 時代  | 公司  | 最新版本 |
