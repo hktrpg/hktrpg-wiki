@@ -2,7 +2,7 @@
 title: Replay
 description: 
 published: true
-date: 2023-01-12T09:51:26.145Z
+date: 2023-01-12T09:52:37.064Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-27T22:05:38.237Z
@@ -15,6 +15,19 @@ dateCreated: 2022-05-27T22:05:38.237Z
 文字團錄可能是指文字跑團後的紀錄。
 
 動畫式團錄一般是把實際跑團紀錄轉化成動畫，目的可能是為了推廣，教學，宣傳。為了戲劇性觀賞性，內容通常經過大量修飾，並配以畫像及音樂，和實際跑團的情況有所出入。動畫式團錄亦有一種是腦內團，即是仿跑團型式，但內容其實是作者的劇本。
+
+# Tabs {.tabset}
+## First Tab
+
+Any content here will go into the first tab...
+
+## Second Tab
+
+Any content here will go into the second tab...
+
+
+
+
 
 -   [香港TRPG歷史影片 *介紹香港1980-2019年TRPG歷史發展*](https://www.youtube.com/watch?v=mB1VbQelfcc&feature=youtu.be)
 
