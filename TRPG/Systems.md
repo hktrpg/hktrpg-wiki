@@ -2,7 +2,7 @@
 title: TRPG系統介紹
 description: 
 published: true
-date: 2023-03-21T06:55:14.580Z
+date: 2023-03-21T13:36:21.891Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T06:55:14.580Z
@@ -62,7 +62,7 @@ dateCreated: 2023-03-21T06:55:14.580Z
 | -   [神我狩](/TRPG/Systems/GodHunter) |     | 現代日本 |     |     |
 | -   [神聖課金](/TRPG/Systems/DivineCharger) | 冒險  | 中世紀 | [官網](https://newgame-plus.jp/projects/%E7%A5%9E%E8%81%96%E8%AA%B2%E9%87%91%EF%BD%92%EF%BD%90%EF%BD%87%E3%83%87%E3%82%A3%E3%83%B4%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC) |     |
 | -   [啟示錄世界](https://sites.google.com/site/twdwtrpg/) | PbtA |     |     |     |
-| -   [共鳴異象TRPG](https://hackmd.io/@yuuhinokanata/emoklore-rulebook/https%3A%2F%2Fhackmd.io%2F%40yuuhinokanata%2Femoklore-rulebook) | 恐怖冒險 | 現代日本 | [官網](https://emoklore.dicetous.com/) |     |
+| -   共鳴異象TRPG | 恐怖冒險 | 現代日本 | [官網](https://emoklore.dicetous.com/) |     |
 | -   [怪談白物語](/TRPG/Systems/Phantom99Story) | 共創  | 怪談，搞笑 |     |     |
 | -   輪迴TRPG | 共創  | 成長，冒險，無限 |     | [官網](http://139.155.239.169:9001/index.php?path=/upload/G@%E8%A7%84%E5%88%99%E7%B1%BB&type=name&sort=asc) |
 
