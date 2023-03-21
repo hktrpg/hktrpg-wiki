@@ -2,7 +2,7 @@
 title: inSANe
 description: 
 published: true
-date: 2023-03-21T06:57:51.654Z
+date: 2023-03-21T06:58:19.012Z
 tags: system
 editor: markdown
 dateCreated: 2023-03-21T06:57:51.654Z
@@ -18,5 +18,5 @@ inSANe 是冒險企劃局出品的恐怖風格RPG遊戲。
 疑心生暗鬼，無盡恐怖襲來─ ─」
 
 # 網絡資源 
-- [http://www.bouken.jp/pd/san/ 官方網站] 
-- [https://trow.cc/board/showtopic=28774 中文翻譯規則]
+- [官方網站](http://www.bouken.jp/pd/san/) 
+- [中文翻譯規則](https://trow.cc/board/showtopic=28774)
