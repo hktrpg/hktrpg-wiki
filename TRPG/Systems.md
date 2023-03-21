@@ -2,7 +2,7 @@
 title: TRPG系統介紹
 description: 
 published: true
-date: 2023-03-21T13:36:21.891Z
+date: 2023-03-21T13:37:22.188Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T06:55:14.580Z
@@ -22,7 +22,7 @@ dateCreated: 2023-03-21T06:55:14.580Z
 | -   [Paranoia](/TRPG/Systems/Paranoia) | 陰謀, 幸福 | 未來  |     |     |
 | -   [魔道書大戰](/TRPG/Systems/Magicalogia) | 角色扮演 | 現代  | [冒険企画局](http://www.bouken.jp/pd/mg/) |     |
 | -   [Fate](/TRPG/Systems/Fate) |     | 現代  |     |     |
-| -   [Fate/Table Night](/TRPG/Systems/Fate/Table_Night) |     | 現代  |     |     |
+| -   [Fate/Table Night](/TRPG/Systems/Fate_Table_Night) |     | 現代  |     |     |
 | -   [黑暗編年史](/TRPG/Systems/ChronicleofDarkness) |     |     |     |     |
 | -   [新黑暗世界](/TRPG/Systems/WorldofDarkness) |     |     |     |     |
 | -   [永夜後日談](/TRPG/Systems/Nechronica) | 溫馨  | 末世  |     |     |
