@@ -2,7 +2,7 @@
 title: 暗影狂奔ShadowRun
 description: 
 published: true
-date: 2023-03-21T14:37:36.918Z
+date: 2023-03-21T14:38:01.201Z
 tags: system
 editor: markdown
 dateCreated: 2023-03-21T14:37:36.918Z
@@ -33,4 +33,4 @@ Shadowrun由FASA games於1989年創建。目前，它已經是第五版了，由
  [核心規則翻譯](https://trow.cc/board/showtopic=25305)
  [背景翻譯](https://site.douban.com/248518/widget/notes/18060472/note/472522320/)
  [Youtube官方規則教學 繁中字幕](https://www.youtube.com/watch?v=QvEEmCPQgy8&list=PLcS__l3P8LYnFgLciVG8Pxm9T2h1HbMmr)
- [https://www.youtube.com/playlist?list=PLmlAiLD6dwbGAGRoi5IhyTi8qlLgLj27U ](Youtube規則教學 繁中字幕)
+ [Youtube規則教學 繁中字幕](https://www.youtube.com/playlist?list=PLmlAiLD6dwbGAGRoi5IhyTi8qlLgLj27U)
