@@ -2,7 +2,7 @@
 title: 首頁
 description: 任何人都可以增加修改的TRPG百科全書
 published: true
-date: 2023-01-12T09:20:36.297Z
+date: 2023-03-21T05:58:12.963Z
 tags: 首頁
 editor: markdown
 dateCreated: 2022-05-20T09:19:21.009Z
@@ -17,7 +17,7 @@ dateCreated: 2022-05-20T09:19:21.009Z
 
 
 # TRPG初接觸
-- [:one: TRPG基礎說明 *了解基本*](/TRPG/basicDecsription)
+- [:one: TRPG基礎說明 *了解基本*](/TRPG)
 - [:car: 約玩TRPG *進入奇幻世界*](https://play.hktrpg.com)
 - [:movie_camera: 動畫 *以好看的Replay入門*](/TRPG/replay)
 {.links-list}
