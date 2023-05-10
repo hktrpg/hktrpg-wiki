@@ -2,7 +2,7 @@
 title: 開拓者PF2E
 description: 
 published: true
-date: 2023-05-10T08:24:19.296Z
+date: 2023-05-10T08:44:40.394Z
 tags: trpg, system, d20
 editor: markdown
 dateCreated: 2023-05-10T06:42:07.294Z
@@ -16,5 +16,5 @@ dateCreated: 2023-05-10T06:42:07.294Z
 - [PF2E在FVTT的開卡教學](pf2在FVTT的開卡教學)
 - [PF2E速查表](/pdf/pf2e速查表.pdf)(PDF)
 - [玩家參考咭](/pdf/player_reference_card_-_zhtw.pdf)(PDF)
-- [Discord的技能速查機械人](https://bothelp.hktrpg.com/hktrpg-guan-fang-shi-yong-jiao-xue/trpg-gong-neng/zhi-ding-trpg-xi-tong/pf2e)
+- [PF2E速查機械人](https://bothelp.hktrpg.com/hktrpg-guan-fang-shi-yong-jiao-xue/trpg-gong-neng/zhi-ding-trpg-xi-tong/pf2e)
 - [PF2E遭遇建構器](https://maxiride.github.io/pf2e-encounters/#/)(英)
