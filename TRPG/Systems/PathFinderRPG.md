@@ -2,7 +2,7 @@
 title: 開拓者PathFinder
 description: 
 published: true
-date: 2023-05-10T06:20:53.181Z
+date: 2023-05-10T06:23:59.832Z
 tags: system
 editor: markdown
 dateCreated: 2023-03-21T06:51:11.993Z
@@ -13,5 +13,5 @@ dateCreated: 2023-03-21T06:51:11.993Z
 
  資源目錄
 - [規則書CHM](https://www.goddessfantasy.net/bbs/index.php?topic=128946.0)
-- [pf2在FVTT的開卡教學]()
-- [PF2E速查表]()
+- [pf2在FVTT的開卡教學](pf2在FVTT的開卡教學)
+- [pf2e速查表](/pdf/pf2e速查表.pdf)]
