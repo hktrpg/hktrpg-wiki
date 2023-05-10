@@ -2,7 +2,7 @@
 title: TRPG系統介紹
 description: 
 published: true
-date: 2023-03-21T13:37:22.188Z
+date: 2023-05-10T06:13:25.237Z
 tags: 
 editor: markdown
 dateCreated: 2023-03-21T06:55:14.580Z
@@ -15,7 +15,8 @@ dateCreated: 2023-03-21T06:55:14.580Z
 | -   [克蘇魯迷踪](/TRPG/Systems/%E5%85%8B%E8%98%87%E9%AD%AF%E8%BF%B7%E8%B8%AA) | 偵探  | 現代  |     |     |
 | -   [Cypher System](https://www.montecookgames.com/store/product-line/cypher-system/) | 泛用  | 泛用  | [Monte Cook Games](https://montecookgames.com/) | 2nd Edition |
 | -   [龍與地下城](/TRPG/Systems/DND) | 成長,冒險 | 架空中古 |     | 5th Edition |
-| -   [開拓者](/TRPG/Systems/PathFinderRPG) | 成長,冒險 | 架空中古 | [Paizo](http://paizo.com/pathfinderRPG) | 2nd Edition |
+| -   [開拓者](/TRPG/Systems/PathFinderRPG) | 成長,冒險 | 架空中古 | [Paizo](http://paizo.com/pathfinderRPG) | 1st Edition |
+| -   [開拓者2E](/TRPG/Systems/PathFinder2NdRPG) | 成長,冒險 | 架空中古 | [Paizo](http://paizo.com/pathfinderRPG) | 2nd Edition |
 | -   [忍神](/TRPG/Systems/shinobigami) | 角色扮演 | 現代  | [冒険企画局](http://www.bouken.jp/pd/sg/) |     |
 | -   [InSANe](/TRPG/Systems/InSANe) | 恐怖  | 現代  | [冒険企画局](http://www.bouken.jp/pd/san/) |     |
 | -   [無限恐怖](/TRPG/Systems/InfHorror) | 成長,冒險 | 不定  |     |     |
