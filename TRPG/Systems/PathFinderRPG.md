@@ -2,16 +2,17 @@
 title: 開拓者PathFinder
 description: 
 published: true
-date: 2023-05-10T06:23:59.832Z
-tags: system
+date: 2023-05-10T07:22:55.139Z
+tags: 
 editor: markdown
 dateCreated: 2023-03-21T06:51:11.993Z
 ---
 
-當威世智公司決定推出DND4E並收緊開放遊戲協議(Open Game License)時，其中的社員成立Paizo出版社，並推出了自己的遊戲Pathfinder。而2023年的現在，威世智公司又(曾經)打算收緊開放遊戲協議，PF2E將會推出ORC協議，並去除Open Game License內容。
+當威世智公司決定推出DND4E並收緊開放遊戲協議時，其中的社員成立Paizo出版社，並推出了自己的遊戲Pathfinder。以兼容DND 3.5版為前提，讓你可以無痛遊戲。它還有出版史上最大的公開試玩，而且每年都推出大量的書本和設定與冒險集，讓玩家可以組合出腦海中最特別的組合。
 
 
  資源目錄
-- [規則書CHM](https://www.goddessfantasy.net/bbs/index.php?topic=128946.0)
-- [pf2在FVTT的開卡教學](pf2在FVTT的開卡教學)
-- [pf2e速查表](/pdf/pf2e速查表.pdf)]
+- [規則書 白貓](http://www.goddessfantasy.net/bbs/index.php?topic=93464.0;topicseen)
+- [PF-內海世界觀](http://www.goddessfantasy.net/bbs/?topic=96592.0)
+- [pf2在FVTT的開卡教學]()
+- [自動化角色卡](http://www.goddessfantasy.net/bbs/index.php?topic=123437.0)
