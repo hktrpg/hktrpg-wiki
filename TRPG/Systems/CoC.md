@@ -2,13 +2,39 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-03-21T05:56:00.748Z
+date: 2023-06-05T06:02:10.637Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
 ---
 
 克蘇魯的呼喚(Call of Cthulhu）是一個基於H.P.Lovecraft所創作的克蘇魯神話體系(Cthulhu Mythos)而成的TRPG(桌上角色扮演遊戲)系統之一。玩家將扮演勇敢的調查員，穿越各種秘密與恐怖的場景，發現人類不應該知道的知識，並決定人類的命運。
+
+# 劇本推薦
+
+## 香港TRPG歷史影片
+#### Tabs {.tabset}
+
+##### 說明
+
+以下分享為個人感想
+
+##### 單人
+
+[赤い窓](https://product.kadokawa.co.jp/cthulhu/contents/coc_scenario/entry-640737.html)
+
+##### 3小時UP
+
+[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/)
+[日本2020 - 不息摯愛](/https://product.kadokawa.co.jp/p01/product-c/322001000090.html)
+
+##### 6小時UP
+
+[**通過吧**](/https://booth.pm/ja/items/2453854)
+[**日本2010 - 死亡銘刻**](https://product.kadokawa.co.jp/p01/product-c/200906000348.html) 
+[**怪談會**](https://booth.pm/ja/items/1986971)
+[**失落的繳款**](https://www.chaosium.com/call-of-cthulhu-keeper-screen-pack/)
+
 
 # 官方COC7ed 規則書
 
