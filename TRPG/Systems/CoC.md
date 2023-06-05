@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-05T06:41:19.545Z
+date: 2023-06-05T06:43:26.229Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -20,19 +20,19 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 ##### 單人
 
-[赤い窓](https://product.kadokawa.co.jp/cthulhu/contents/coc_scenario/entry-640737.html) 
+[**赤い窓**](https://product.kadokawa.co.jp/cthulhu/contents/coc_scenario/entry-640737.html) - 免費公開
 
 ##### 3小時UP
 
-[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/)
-[日本2020 - 不息摯愛](/https://product.kadokawa.co.jp/p01/product-c/322001000090.html)
+[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議導入的動力要加強
+[**日本2020 - 不息摯愛**](/https://product.kadokawa.co.jp/p01/product-c/322001000090.html) - 適合新手玩家及KP
 
 ##### 6小時UP
 
-[**通過吧**](/https://booth.pm/ja/items/2453854)
+[**通過吧**](/https://booth.pm/ja/items/2453854) - 3人劇本，Replay改成單人版
 [**日本2010 - 死亡銘刻**](https://product.kadokawa.co.jp/p01/product-c/200906000348.html) 
 [**怪談會**](https://booth.pm/ja/items/1986971)
-[**失落的繳款**](https://www.chaosium.com/call-of-cthulhu-keeper-screen-pack/)
+[**失落的繳款**](https://www.chaosium.com/call-of-cthulhu-keeper-screen-pack/) - KP Screen 附送模組
 
 
 # 官方COC7ed 規則書
