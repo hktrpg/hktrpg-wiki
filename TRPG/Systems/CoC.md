@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-05T10:54:52.923Z
+date: 2023-06-05T10:56:35.600Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -16,7 +16,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 ##### 說明
 
-以下分享為個人感想，另外，大部分劇本可以在[骰聲](https://dicecho.com/)或[純美蘋果園](https://www.goddessfantasy.net/)找到中文版
+以下分享為個人感想，星星為好玩程度。另外，大部分劇本可以在[骰聲](https://dicecho.com/)或[純美蘋果園](https://www.goddessfantasy.net/)找到中文版
 
 ##### 單人
 - ★★★★☆
@@ -26,7 +26,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 - ★★★★★
 [**日本2020 - 不息摯愛**](/https://product.kadokawa.co.jp/p01/product-c/322001000090.html) - 適合新手玩家及KP 
 - ★★★☆☆
-[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議加強導入的動力
+[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議KP加強導入的動力
 
 
 ##### 6小時UP
