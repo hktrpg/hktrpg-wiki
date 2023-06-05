@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-05T06:02:10.637Z
+date: 2023-06-05T06:41:19.545Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -12,16 +12,15 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 # 劇本推薦
 
-## 香港TRPG歷史影片
 #### Tabs {.tabset}
 
 ##### 說明
 
-以下分享為個人感想
+以下分享為個人感想，另外，大部分劇本可以在[骰聲](https://dicecho.com/)或[純美蘋果園](https://www.goddessfantasy.net/)找到中文版
 
 ##### 單人
 
-[赤い窓](https://product.kadokawa.co.jp/cthulhu/contents/coc_scenario/entry-640737.html)
+[赤い窓](https://product.kadokawa.co.jp/cthulhu/contents/coc_scenario/entry-640737.html) 
 
 ##### 3小時UP
 
