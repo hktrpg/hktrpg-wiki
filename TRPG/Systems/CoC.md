@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-05T10:56:35.600Z
+date: 2023-06-05T10:57:10.508Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -24,9 +24,9 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 ##### 3小時UP
 - ★★★★★
-[**日本2020 - 不息摯愛**](/https://product.kadokawa.co.jp/p01/product-c/322001000090.html) - 適合新手玩家及KP 
+[**日本2020 - 不息摯愛**](https://product.kadokawa.co.jp/p01/product-c/322001000090.html) - 適合新手玩家及KP 
 - ★★★☆☆
-[**Mansions of Madness - 科比特先生**](/https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議KP加強導入的動力
+[**Mansions of Madness - 科比特先生**](https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議KP加強導入的動力
 
 
 ##### 6小時UP
@@ -37,7 +37,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 [**怪談會**](https://booth.pm/ja/items/1986971)
 
 - ★★★☆☆
-[**通過吧**](/https://booth.pm/ja/items/2453854) - 固定3人劇本，但Replay改成單人版
+[**通過吧**](https://booth.pm/ja/items/2453854) - 固定3人劇本，但Replay改成單人版
 [**失落的繳款**](https://www.chaosium.com/call-of-cthulhu-keeper-screen-pack/) - KP Screen 附送模組
 
 
