@@ -2,7 +2,7 @@
 title: TRPG 生態
 description: 
 published: true
-date: 2023-06-09T09:51:38.194Z
+date: 2023-06-09T10:18:16.978Z
 tags: trpg, 文章
 editor: markdown
 dateCreated: 2023-06-09T09:51:22.403Z
@@ -79,4 +79,8 @@ GM需要具備多種能力，不同的方式可以讓玩家體驗更佳。
 4.  圖片及音樂的處理能力-一張美美的背景圖及出色的場景音樂，可以令玩家印像深刻，這方面鈔能力可以省很多事
 5.  配音能力-會變聲的GM好利害
 
-常用網址
+# 常用網址
+
+[TRPG百科](https://wiki.hktrpg.com/)
+[香港TRPG Discord群](https://support.hktrpg.com/)
+[香港TRPG Facebook Page](https://www.facebook.com/groups/HKTRPG)
