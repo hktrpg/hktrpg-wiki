@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-05T10:57:10.508Z
+date: 2023-06-23T08:10:06.965Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -27,7 +27,11 @@ dateCreated: 2023-03-21T05:56:00.748Z
 [**日本2020 - 不息摯愛**](https://product.kadokawa.co.jp/p01/product-c/322001000090.html) - 適合新手玩家及KP 
 - ★★★☆☆
 [**Mansions of Madness - 科比特先生**](https://www.chaosium.com/mansions-of-madness-vol-1-behind-closed-doors-hardcover/) - 建議KP加強導入的動力
-
+- ?????
+[**利刃**](https://i.4pcdn.org/tg/1368065916313.pdf) - 知名作者Dr. Michael C. LaBossiere的免費劇本
+[**追書人**](https://www.chaosium.com/call-of-cthulhu-starter-set-pdf/) - Starter set 內附劇本
+[**地獄酒店**](https://www.drivethrurpg.com/product/227108/Petersens-Abominations?filters=10103_0_0_0_0) - 作者的鬼屋加強版，被玩家要求而現寫劇本 
+[**哈索恩山**](https://www.chaosium.com/doors-to-darkness-pdf/) - 劇本集的其中一章
 
 ##### 6小時UP
 - ★★★★★
