@@ -2,7 +2,7 @@
 title: 跑團工具
 description: 各類TRPG跑團工具，可以作為面團或網團的跑團協助工具
 published: true
-date: 2023-03-21T14:59:22.797Z
+date: 2023-07-01T04:45:30.130Z
 tags: tools
 editor: markdown
 dateCreated: 2022-05-28T08:34:41.797Z
@@ -34,6 +34,7 @@ https://beta.character.ai/ AI文字對話工具,支援中英文
 
 # 跑團Replay制作工具
 [活字引擎](https://store.steampowered.com/app/2124470/_/)跑團Replay制作工具，自動配音，導入Log生成影片
+[NaturalCrit](https://homebrewery.naturalcrit.com/) Markdown 語言產生書本，預設風格既古典又優美
 
 # 網上擲骰工具平台
 [HKTRPG擲骰機械人HKTRPG](https://bothelp.hktrpg.com)
