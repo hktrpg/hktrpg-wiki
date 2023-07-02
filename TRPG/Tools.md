@@ -2,7 +2,7 @@
 title: 跑團工具
 description: 各類TRPG跑團工具，可以作為面團或網團的跑團協助工具
 published: true
-date: 2023-07-01T04:45:30.130Z
+date: 2023-07-02T03:15:57.352Z
 tags: tools
 editor: markdown
 dateCreated: 2022-05-28T08:34:41.797Z
@@ -132,7 +132,7 @@ https://beta.character.ai/ AI文字對話工具,支援中英文
 
 [Kisekae紙娃娃產生器](http://pochi.eek.jp/m_kisekae.html)
 
-[真人圖片轉漫畫風](https://waifu.lofiu.com/ Lofiu)
+[真人圖片轉漫畫風](https://waifu.lofiu.com/)
 
 [日本二次元頭像產生器](https://waifulabs.com/)
 
