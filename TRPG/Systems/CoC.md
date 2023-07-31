@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-07-31T08:11:50.654Z
+date: 2023-07-31T08:15:42.624Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -60,7 +60,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 ## 繁中版
 
-現時只有新手包。
+現時只有[新手包](https://www.wix.moaideas.net/call-of-cthulu-trpg-cht)。
 
 2022年簡中版推出基礎規則書，可惜繁中版沒有跟進。
 
