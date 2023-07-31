@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-06-23T08:10:06.965Z
+date: 2023-07-31T07:56:28.416Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -67,7 +67,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 ## 簡中版 
 
-現在有新手包，基礎規則書。
+現在有新手包，[基礎規則書](https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-11420943889.10.29fda033q17zKC&id=669244609888)。
 
 試閱本及網上曾流傳基礎規則書會拆成多本小冊子，
 
@@ -141,7 +141,7 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 
 
 ### 邪教克蘇魯
-
+[Cults of Cthulhu](https://www.chaosium.com/cults-of-cthulhu-pdf/)
 最新的COC擴展
 
 提供數個模組，KP如何創作獨特的邪教以及一些邪教範例。
@@ -157,7 +157,7 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 
 
 ## 2020 
-
+[新クトゥルフ神話TRPG クトゥルフ2020](https://product.kadokawa.co.jp/p01/product-c/322001000090.html)
 總共二百多頁。延續2010，2015的日本現代系列擴展。
 
 中小學生調查員的製作方法算是系列特色吧，而且比前代進步和簡化，前代要小學每年級選一次得意學科，就讓人不想使用了。
