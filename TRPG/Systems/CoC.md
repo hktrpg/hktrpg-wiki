@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-07-31T07:56:28.416Z
+date: 2023-07-31T08:11:50.654Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -49,7 +49,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 官方COC7ed 規則書現在至少有三個語系，
 
-首先是Chaosium直接推出的英文規則書，
+首先是Chaosium直接推出的[英文規則書](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook-pdf/)，
 
 授權出版的日文和中文規則書，其中中文又分為繁體中文和簡體中文。
 
@@ -83,6 +83,7 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 在七版，同樣有推出新手包和基礎規則書。
 
 # 基礎規則書
+[Call of Cthulhu Keeper Rulebook](https://www.chaosium.com/call-of-cthulhu-keeper-rulebook-pdf/)
 
 數個語系內容大致一樣，大概四百頁，只是有輕微調整，例如簡中版把原第十六模組部份分拆出來成為小冊子。
 
@@ -97,6 +98,8 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 他們不能獨立使用，需要依附'''基礎規則書'''。
 
 ## 調查員手冊
+
+[Call of Cthulhu Investigator Handbook](https://www.chaosium.com/call-of-cthulhu-investigator-handbook-pdf/)
 
 英文官方獨有出版物。
 
@@ -154,6 +157,7 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 
 六版開始已經有不同英文版擴展的翻譯和獨立日本背景擴展如2010，2015，克蘇魯與帝國，比叡山炎上。
 
+[日本規則書手機APP](https://product.kadokawa.co.jp/cthulhu/app/#priceSection)
 
 
 ## 2020 
