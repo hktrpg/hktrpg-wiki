@@ -2,7 +2,7 @@
 title: Call of Cthulhu 克蘇魯神話
 description: 介紹克蘇魯神話
 published: true
-date: 2023-07-31T08:15:42.624Z
+date: 2023-07-31T08:16:15.210Z
 tags: system, coc
 editor: markdown
 dateCreated: 2023-03-21T05:56:00.748Z
@@ -78,7 +78,7 @@ dateCreated: 2023-03-21T05:56:00.748Z
 
 COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 
-及多本經chaosium授權的日本背景擴展。
+及多本經chaosium授權的日本背景擴展。現在更有[日本規則書手機APP](https://product.kadokawa.co.jp/cthulhu/app/#priceSection)
 
 在七版，同樣有推出新手包和基礎規則書。
 
@@ -156,9 +156,6 @@ COC在日本一直很受歡迎，六版開始已經有推出基礎規則書，
 日本是TRPG出版大國，大量出版社與同人出版TRPG產物。
 
 六版開始已經有不同英文版擴展的翻譯和獨立日本背景擴展如2010，2015，克蘇魯與帝國，比叡山炎上。
-
-[日本規則書手機APP](https://product.kadokawa.co.jp/cthulhu/app/#priceSection)
-
 
 ## 2020 
 [新クトゥルフ神話TRPG クトゥルフ2020](https://product.kadokawa.co.jp/p01/product-c/322001000090.html)
