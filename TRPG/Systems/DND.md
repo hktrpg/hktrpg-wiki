@@ -2,7 +2,7 @@
 title: DND
 description: 
 published: true
-date: 2023-03-21T06:40:50.193Z
+date: 2024-08-16T03:15:16.605Z
 tags: system
 editor: markdown
 dateCreated: 2023-03-21T06:40:50.192Z
@@ -16,6 +16,7 @@ dateCreated: 2023-03-21T06:40:50.192Z
 
 # 資源目錄
 - [官方DnD 5e 在線角色創作工具 需註冊 英文](https://www.dndbeyond.com/characters/builder#/)
+- [:gear: FVTT DnD 5e 正體中文創角方法](/DND/5eClasspack)
 - [TALES FROM THE YAWNING PORTAL](http://dnd.wizards.com/products/tabletop-games/rpg-products/tales-yawning-portal)
 - [5e工具網](http://5etools.wayneh.tw/5etools.html)
 - [官方版DnD陣營測試](https://www.hktrpg.com/tool/dnd.html)
