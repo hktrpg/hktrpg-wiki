@@ -2,7 +2,7 @@
 title: 無限恐怖
 description: 
 published: true
-date: 2023-03-21T12:36:42.179Z
+date: 2025-06-24T03:24:55.599Z
 tags: system
 editor: markdown
 dateCreated: 2023-03-21T07:02:40.923Z
@@ -37,4 +37,5 @@ dateCreated: 2023-03-21T07:02:40.923Z
 - [無限恐怖規則書FXv106版](https://www.hktrpg.com/INF/FXv106.html)
 [無限恐怖規則書FXv107版](https://www.hktrpg.com/INF/FXv107/FXv107.html)
 [無限恐怖規則書FXv110版](https://www.hktrpg.com/INF/FXv110/index.htm)
+[無限恐怖規則書FXv130版](https://www.hktrpg.com/INF/FXv130/FXv130.html)
 {.links-list}
